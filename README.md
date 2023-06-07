@@ -1,3 +1,2 @@
-# Epl-match-prediction
-
+# Epl-match-predictor
 Epl match prediction system using python
